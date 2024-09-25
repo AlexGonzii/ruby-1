@@ -1,6 +1,4 @@
 # ruby
-ejercicio1 
-
 # DESCRIPCION
 Ruby fue creado por el programador japonés Yukihiro «Matz» Matsumoto, quien comenzó a trabajar en Ruby en 1993, y lo presentó públicamente en 1995.
 Combina una sintaxis inspirada en Python y Perl con características a Smalltalk.
